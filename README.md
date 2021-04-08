@@ -1,3 +1,5 @@
+### PEro primero instala Yarn global(npm install --global yarn) y luego en el proyecto yarn install
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
